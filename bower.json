@@ -1,0 +1,23 @@
+{
+  "name": "mylib",
+  "main": "dist/mylib_bundle.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/georgeOsdDev/mylib",
+  "authors": [
+    "Takeharu Oshida <georgeosddev@gmail.com>"
+  ],
+  "description": "Something description.",
+  "keywords": [
+    "some",
+    "awsome",
+    "keywords",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
